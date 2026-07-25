@@ -38,12 +38,12 @@ http://localhost:5173
 
 Frontend:
 ```
-YOUR_NETLIFY_URL
+https://sunny-lamington-795431.netlify.app/
 ```
 
 Backend API:
 ```
-YOUR_RAILWAY_URL
+https://digitalheroes-page-pulse-production.up.railway.app/api/audit
 ```
 
 ## Author
