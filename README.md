@@ -38,7 +38,7 @@ http://localhost:5173
 
 Frontend:
 ```
-https://sunny-lamington-795431.netlify.app/
+https://digitalheroesassignment.netlify.app/
 ```
 
 Backend API:
