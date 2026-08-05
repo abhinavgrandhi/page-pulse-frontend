@@ -16,7 +16,7 @@ function App() {
       setResult(null);
 
       const response = await axios.post(
-        "https://digitalheroes-page-pulse-production.up.railway.app",
+        "https://digitalheroes-page-pulse-production.up.railway.app/api/audit",
         {
           url: url
         }
